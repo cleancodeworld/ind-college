@@ -1,5 +1,3 @@
-# IT People 
-
 ## Setup
 
 Install dependencies

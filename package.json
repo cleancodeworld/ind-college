@@ -64,7 +64,7 @@
     "@types/react-router-redux": "^5.0.15",
     "@types/redux-form": "^7.4.8",
     "@types/traverse": "^0.6.32",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cypress": "^3.2.0",
     "cypress-testing-library": "^2.3.6",
     "dom-storage": "^2.1.0",
